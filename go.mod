@@ -1,3 +1,3 @@
-module github.com/vasilevdm/gopackage2
+module github.com/vasilevdm/gopackage3
 
 go 1.24.3
